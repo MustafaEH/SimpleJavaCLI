@@ -129,10 +129,6 @@ Once the emulator is running, you can use the following commands:
 
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements, bug fixes, or documentation improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 This project is inspired by the need to understand basic shell commands and file manipulation using Java.
